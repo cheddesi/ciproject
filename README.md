@@ -1,2 +1,1 @@
 # ciproject
-ci demo project
